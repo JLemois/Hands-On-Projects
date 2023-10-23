@@ -3,7 +3,7 @@
       Chapter 5
       Project 05-05
 
-    Coded By: Joseph Lemois, IST239-W01
+    Coded By: JLemois, IST239-W01
          September 24, 2023
          Hands On Project 05-05
 
