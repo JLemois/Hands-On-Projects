@@ -3,7 +3,7 @@
       Chapter 8
       Project 08-05
 
-        Coded By: Joseph Lemois, IST-239
+        Coded By: JLemois, IST-239
             October 15, 2023
             Hands On Project 08-05
             Debugging Challenge
