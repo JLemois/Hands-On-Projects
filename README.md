@@ -1,3 +1,3 @@
 # Hands-On-Projects
-Web Warriors JavaScript Assignments
-Not Including files that are not being altered or worked on.
+__Web Warriors JavaScript Assignments__
+  Only included HTML and .JS files
