@@ -4,7 +4,7 @@
 
       Application to generate a horizontal bar chart
 
-    Coded By: Joseph Lemois, IST239
+    Coded By: JLemois, IST239
     September 10, 2023
     Hands On Project 03-05
 
