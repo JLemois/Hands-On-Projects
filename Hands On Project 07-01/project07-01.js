@@ -3,7 +3,7 @@
       Chapter 7
       Project 07-01
 
-     Coded By: Joseph Lemois, IST-239
+     Coded By: JLemois, IST-239
           October 7, 2023
           Hands On Project 7-1
 
