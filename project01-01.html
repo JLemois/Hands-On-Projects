@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <!--
+   
+      J Lemois, August 26, 2023, IST239-W01, Hands on Project 1-1
+        Implement a script that uses document.write() to create an ordered list using <ol> and <li> respectively
+        I indent mine for organization
+
+   -->
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width,initial-scale=1.0">
+   <title>Hands-on Project 1-1</title>
+   <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+   <header>
+      <h1>
+         Hands-on Project 1-1
+      </h1>
+   </header>
+
+   <article>
+      <h2>Financial Planning Tips</h2>
+      <!--
+            The code directly below is an ordered list within a <script> element implementing document.write()
+            Opened with an <ol> and within that element used <li> to order the list properly
+             This keeps it in line with the attached/created CSS for this project
+             JavaScript comment added per the projects instructions
+      -->
+      <script>
+         //Create an ordered list
+         document.write("<ol>");
+            document.write("<li> Reduce spending on non-necessities.</li>");
+            document.write("<li> Use extra money to pay off debt, starting with the highest interest credit cards.</li>");
+            document.write("<li> Continue paying off debts until you are debt free.</li>");
+            document.write("<li> Put a fixed percent of your pay aside every payday.</li>");
+         document.write("</ol>");
+      </script>
+   </article>
+</body>
+</html>
