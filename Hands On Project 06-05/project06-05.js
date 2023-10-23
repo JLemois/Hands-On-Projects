@@ -3,7 +3,7 @@
       Chapter 6
       Project 06-05
 
-    Coded By: Joseph Lemois, IST-239
+    Coded By: JLemois, IST-239
     September 28, 2023
     Hands On Project 06-05
     Debugging challenge
