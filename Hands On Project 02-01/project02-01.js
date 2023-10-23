@@ -7,7 +7,7 @@
 
       Celsius <-> Fahrenheit Converter
 
-      Coded By: Joseph Lemois, IST239-W01
+      Coded By: JLemois, IST239-W01
             September 2, 2023
 
             Hands-on Project 2-1
