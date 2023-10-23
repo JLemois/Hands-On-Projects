@@ -3,7 +3,7 @@
       Chapter 4
       Project 04-01
 
-        Coded By: Joseph Lemois, IST239
+        Coded By: JLemois, IST239
         September 16, 2023
         Hands On Project04-01
 
