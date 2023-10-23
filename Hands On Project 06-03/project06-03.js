@@ -3,7 +3,7 @@
       Chapter 6
       Project 06-03
 
-     Coded By: Joseph Lemois, IST239
+     Coded By: JLemois, IST239
           September 28, 2023
           Hands On Project 06-03
 
