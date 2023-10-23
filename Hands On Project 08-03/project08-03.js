@@ -3,7 +3,7 @@
       Chapter 8
       Project 08-03
 
-    Coded By: Joseph Lemois, IST239
+    Coded By: JLemois, IST239
         October 15, 2023
         Hands-on Project8-3
         "...create objects to describe the contents of a pizza
