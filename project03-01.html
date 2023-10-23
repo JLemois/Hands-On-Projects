@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <!--
+      Coded By: J Lemois, IST239-W01
+      September 10, 2023,
+      Hands-On Project 03-01
+
+      "...Create an app that calculates the total cost of items selected from a lunch menu
+          using a for loop and an if statement as part of the program code."
+
+      ~Primary build was supplied in file
+       **Added <script> for .js file
+   -->
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width,initial-scale=1.0">
+   <title>Hands-on Project 3-1</title>
+   <link rel="stylesheet" href="styles.css" />
+   <script src="project03-01.js" defer></script>
+</head>
+
+<body>
+   <header>
+      <h1>
+         Hands-on Project 3-1
+      </h1>
+   </header>
+
+   <article>
+      <h2>Lunch selections</h2>
+      <form>
+         <input type="checkbox" class="menuItem" id="item1" value="11.95" />
+         <label for="item1">Fried chicken ($11.95)</label>
+         <input type="checkbox" class="menuItem" id="item2" value="13.95" />
+         <label for="item2">Fried halibut ($13.95)</label>
+         <input type="checkbox" class="menuItem" id="item3" value="10.95" />
+         <label for="item3">Hamburger ($10.95)</label>
+         <input type="checkbox" class="menuItem" id="item4" value="17.95" />
+         <label for="item4">Grilled salmon ($17.95)</label>
+         <input type="checkbox" class="menuItem" id="item5" value="8.95" />
+         <label for="item5">Side salad ($8.95)</label>
+      </form>
+      <aside>
+         Total Order Cost: <span id="billTotal">$0</span>
+      </aside>
+   </article>
+
+</body>
+</html>
