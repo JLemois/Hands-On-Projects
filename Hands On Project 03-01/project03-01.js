@@ -4,7 +4,7 @@
 
       Application to calculate total order cost
 
-     Coded By: J Lemois, IST239-W01
+     Coded By: JLemois, IST239-W01
            September 10, 2023,
            Hands-On Project 03-01
 
