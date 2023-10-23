@@ -2,7 +2,7 @@
       Chapter 2
       Project 02-05
 
-      Coded By: Joseph Lemois IST239-W01
+      Coded By: JLemois IST239-W01
               Hands-On Project 02-05: Debugging
 
               --Initial code supplied by project/book
