@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <!--
+     Joseph Lemois, August 26, IST239-W01
+     Hands-On Project 01-05 : Debugging
+      Work through the different sections listed
+      and debug until working/displaying correctly.
+   ~2 errors described and fixed in the first <script> regarding the variable reopenDate
+   ~4 errors described and fixed regarding the message displayed using the <script> at bottom of page
+    ~~ Instruction stated to put custom message, so took the liberty to make
+       a slight change in the message while still using the created variable.
+   -->
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width,initial-scale=1.0">
+   <title>Hands-on Project 1-5</title>
+   <link rel="stylesheet" href="styles.css" />
+   <!--
+         First error fixed was Let changing to let
+         Second error fixed was adding second quotation mark before the semicolon
+   -->
+   <script>
+      let reopenDate = "September 8th";
+   </script>
+</head>
+
+<body>
+   <header>
+      <h1>
+         Hands-on Project 1-5
+      </h1>
+   </header>
+
+   <article>
+      <!--
+   First error fixed was changing [] to () in the document.write()
+   Second error fixed was changing Document to document
+   Third error was correcting variable reopendate to reopenDate
+   Fourth Error was changing // to */ at end of Create a custom message
+    --Last error actually had me stumped for a bit!
+    Made slight change like what is suggested for the reoppening message
+
+   -->
+      <script>
+         /* Create a custom reopening message */
+         document.write("<p>Sorry, We are closed for the holidays. We will reopen on " +reopenDate +". Thank You!</p>");
+      </script>
+   </article>
+</body>
+</html>
