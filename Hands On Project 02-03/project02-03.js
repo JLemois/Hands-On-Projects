@@ -2,7 +2,7 @@
       Chapter 2
       Project 02-03
 
-      Coded By: Joseph Lemois, IST239-W01
+      Coded By: JLemois, IST239-W01
             September 3, 2023
             Hands-On Project: 02-03
 
