@@ -5,7 +5,7 @@
 
       Application to count the number of characters in a review comment
 
-     Coded By: Joseph Lemois, IST-239
+     Coded By: JLemois, IST-239
      September 16, 2023
      Hands On Project 04-03
 
