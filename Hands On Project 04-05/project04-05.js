@@ -5,7 +5,7 @@
 
       Degrees <-> Radians Converter
 
-      Coded By: Joseph Lemois, IST-239
+      Coded By: JLemois, IST-239
            September 16, 2023,
            Hands On Project04-05
 
